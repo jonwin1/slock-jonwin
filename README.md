@@ -1,3 +1,7 @@
+# slock-jonwin
+
+My slock configuration.
+
 slock - simple screen locker
 ============================
 simple screen locker utility for X.
